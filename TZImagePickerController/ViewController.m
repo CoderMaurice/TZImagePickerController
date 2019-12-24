@@ -87,6 +87,7 @@
     _selectedPhotos = [NSMutableArray array];
     _selectedAssets = [NSMutableArray array];
     [self configCollectionView];
+    
 }
 
 - (BOOL)prefersStatusBarHidden {
